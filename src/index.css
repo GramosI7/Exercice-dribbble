@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.sous_nav {
+  background: #252525;
+}
+
+.sous_nav_sous{
+ background: #333333;
+}
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  background: #f4f4f4;
+  align-items: center;
+  justify-content: center;
+}
+
+.produit{
+  margin: 35px 20px;
+}
+
+.en_dessous{
+  background: #fafafa;
+}
+
+p{
+  color: white;
+  padding: 10px;
+}
+
+h6{
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.btnb{
+ padding: 25px;
+}
